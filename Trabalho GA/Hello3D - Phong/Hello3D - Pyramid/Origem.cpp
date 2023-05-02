@@ -308,7 +308,8 @@ int main()
 			mario_rotacao = mario_rotacao + 10.0;
 			pikachu.initialize(VAO4, nVertices, &shader, glm::vec3(-6.0, -3.0, -10.0), glm::vec3(1.0, 1.0, 1.0), float(pikachu_rotacao), glm::vec3(0.0, 1.0, 0.0));
 			pikachu_rotacao = pikachu_rotacao + 10.0;
-		
+			
+			//todos param de girar
 			if (y_pressed) {
 				joystick_rotacao = false;
 				mario_rotacao = false;
