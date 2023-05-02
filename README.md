@@ -1,3 +1,0 @@
-# ComputacaoGrafica
-
-teste
