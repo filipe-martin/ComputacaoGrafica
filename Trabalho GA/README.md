@@ -17,7 +17,7 @@ Abaixo estão listados os comandos que podem ser utilizados durante a execução
 
 - Apertar "M" faz aparecer o Mario.
 - Apertar "P" faz aparecer o Pikachu.
-- Utilizar as teclas "W", "A", "S", "D" ou o mouse movimenta a câmera no espaço.
+- Utilizar as teclas "W", "A", "S", "D" e o mouse para movimentar a câmera no espaço.
 - Segurar "Z" gira o Mario em seu próprio eixo Y.
 - Segurar "X" gira o Mario em seu próprio eixo Z.
 - Segurar "C" gira o Pikachu em seu próprio eixo Y.
