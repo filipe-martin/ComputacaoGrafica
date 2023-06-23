@@ -1,7 +1,3 @@
-# README.md
-
-Este é o README.md para o projeto "Nome do Projeto". O objetivo deste documento é fornecer instruções para a execução do programa e listar os comandos disponíveis durante a sua execução.
-
 ## Instruções para Execução do Programa
 
 Para executar o programa corretamente, siga as etapas abaixo:
