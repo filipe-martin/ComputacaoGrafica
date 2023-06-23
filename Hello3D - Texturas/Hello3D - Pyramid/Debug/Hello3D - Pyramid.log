@@ -1,0 +1,20 @@
+﻿  glad.c
+  stb_image.cpp
+  Mesh.cpp
+  Object.cpp
+C:\Users\Filipe Martin\Desktop\Faculdade\Computação Grafica\Trabalho GB\Hello3D - Texturas\Hello3D - Pyramid\Object.cpp(27,20): warning C4018: '<': incompatibilidade de signed/unsigned
+  Origem.cpp
+C:\Users\Filipe Martin\Desktop\Faculdade\Computação Grafica\Trabalho GB\Hello3D - Texturas\Hello3D - Pyramid\Origem.cpp(63,19): warning C4305: 'inicializando': truncamento de 'double' para 'float'
+C:\Users\Filipe Martin\Desktop\Faculdade\Computação Grafica\Trabalho GB\Hello3D - Texturas\Hello3D - Pyramid\Origem.cpp(153,24): warning C4305: 'argumento': truncamento de 'double' para 'float'
+C:\Users\Filipe Martin\Desktop\Faculdade\Computação Grafica\Trabalho GB\Hello3D - Texturas\Hello3D - Pyramid\Origem.cpp(256,38): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Filipe Martin\Desktop\Faculdade\Computação Grafica\Trabalho GB\Hello3D - Texturas\Hello3D - Pyramid\Origem.cpp(359,11): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Filipe Martin\Desktop\Faculdade\Computação Grafica\Trabalho GB\Hello3D - Texturas\Hello3D - Pyramid\Origem.cpp(360,11): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Filipe Martin\Desktop\Faculdade\Computação Grafica\Trabalho GB\Hello3D - Texturas\Hello3D - Pyramid\Origem.cpp(364,16): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Filipe Martin\Desktop\Faculdade\Computação Grafica\Trabalho GB\Hello3D - Texturas\Hello3D - Pyramid\Origem.cpp(365,16): warning C4244: 'inicializando': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Filipe Martin\Desktop\Faculdade\Computação Grafica\Trabalho GB\Hello3D - Texturas\Hello3D - Pyramid\Origem.cpp(366,10): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+C:\Users\Filipe Martin\Desktop\Faculdade\Computação Grafica\Trabalho GB\Hello3D - Texturas\Hello3D - Pyramid\Origem.cpp(367,10): warning C4244: '=': conversão de 'double' para 'float', possível perda de dados
+  Shader.cpp
+  Gerando Código...
+  LINK : C:\Users\Filipe Martin\Desktop\Faculdade\Computação Grafica\Trabalho GB\Hello3D - Texturas\Debug\Hello3D - Texturas.exe não encontrado ou não compilado pelo o último link incremental; executando link completo
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflita com uso de outras bibliotecas; use /NODEFAULTLIB:library
+  Hello3D - Pyramid.vcxproj -> C:\Users\Filipe Martin\Desktop\Faculdade\Computação Grafica\Trabalho GB\Hello3D - Texturas\Debug\Hello3D - Texturas.exe
