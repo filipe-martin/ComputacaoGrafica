@@ -23,4 +23,4 @@ Sinta-se à vontade para explorar e interagir com o programa usando esses comand
 
 ## Contato
 
-Se você tiver alguma dúvida ou sugestão em relação a este projeto, sinta-se à vontade para entrar em contato.
+Se você tiver alguma dúvida em relação a este projeto, sinta-se à vontade para entrar em contato.
